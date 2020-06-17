@@ -1,2 +1,2 @@
 # CS50x
-CS50 Projects
+This will be the main directory for all of my CS50 projects
